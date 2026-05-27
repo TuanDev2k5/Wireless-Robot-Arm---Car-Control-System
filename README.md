@@ -74,7 +74,8 @@ Based on the hardware configuration designed in `Vehicle.ioc`, the peripheral al
 ## Experimental Results & Demonstration
 
 
-https://github.com/user-attachments/assets/a5ffbc0a-30e4-4999-aabe-668f155856c6
+https://github.com/user-attachments/assets/19ade866-3186-45d1-a361-4ded4d029626
+
 
 
 ---
