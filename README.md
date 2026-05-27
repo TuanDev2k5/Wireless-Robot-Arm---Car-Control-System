@@ -71,7 +71,13 @@ Based on the hardware configuration designed in `Vehicle.ioc`, the peripheral al
 * **Packet Parsing:** Implemented a non-blocking character accumulator over UART. Incoming data bytes are stored and parsed line-by-line using a newline delimiter (`\n`) to avoid buffer overflows.
 
 ---
+## Experimental Results & Demonstration
 
+
+https://github.com/user-attachments/assets/a5ffbc0a-30e4-4999-aabe-668f155856c6
+
+
+---
 ## Repository Directory Tree
 ```text
 Robotic-Vehicle-Arm/
